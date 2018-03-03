@@ -1,2 +1,2 @@
 # IFMTYP-team06
-Our repositry foer coding stuff
+Our repositry for coding stuff
